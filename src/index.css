@@ -176,7 +176,7 @@ footer button:hover{
 
 @keyframes spin{
   from {
-    tarnsform:rotate(0deg)
+    transform:rotate(0deg)
   }
   to{
     transform: rotate(360deg);
